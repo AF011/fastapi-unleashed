@@ -1,3 +1,7 @@
+# Day 7: FastAPI - User Login Endpoint with Pydantic Validation
+# Author - Leo Programmer - 011
+# Date - 2025-09-03
+
 from fastapi import FastAPI
 from pydantic import BaseModel, EmailStr
 from typing import Optional
